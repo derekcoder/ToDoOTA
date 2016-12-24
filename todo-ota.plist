@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   todo-ota.plist
+   ToDo
+
+   Created by ZHOU DENGFENG on 24/12/16.
+   Copyright (c) 2016 zhou dengfeng derek. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://bitbucket.org/foretech/todo-ios/src/4ac93f5964a592732e4987920a4e07f051dbceb4/ToDo/ToDo.ipa?at=dev</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.foretech.ToDo</string>
+                    <key>bundle-version</key>
+                    <string>1.5.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>ToDo</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
